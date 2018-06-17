@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Acvelon" />
+        <module name="Akvelon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Acvelon" target="1.5" />
+      <module name="Akvelon" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
